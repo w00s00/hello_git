@@ -1,4 +1,8 @@
 msater 1
 github 1
+<<<<<<< HEAD
 local merge
+=======
+
+>>>>>>> origin/master
 
