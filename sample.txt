@@ -1,4 +1,4 @@
 msater 1
-local1
+github 1
 local merge
 
